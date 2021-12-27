@@ -10,22 +10,25 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ### Balanced Random Forest Classifier
 
-![2021-12-26 (1)](https://user-images.githubusercontent.com/87731897/147422538-2ed0d672-3ace-4fdd-bbcc-2327f3e96657.png)
+![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/87731897/147422954-7f066212-c8a4-4480-8823-2750a8461036.png)
 
 ### Naive Random Oversampling
 
-![2021-12-26 (2)](https://user-images.githubusercontent.com/87731897/147422539-1110b558-c7a9-4515-ba5f-8e9b689a8e67.png)
-
-### Naive Random Oversampling
-
-![2021-12-26 (3)](https://user-images.githubusercontent.com/87731897/147422541-3340ff8e-f6db-46b4-bc82-53391283cae7.png)
+![Naive Random Oversampling](https://user-images.githubusercontent.com/87731897/147422957-e3a81f25-f8d3-42de-a608-30e850f91787.png)
 
 ### SMOTE Oversampling
 
-![2021-12-26 (4)](https://user-images.githubusercontent.com/87731897/147422543-e199724d-ed4b-4080-9595-a4b4919f41ee.png)
+![SMOTE Oversampling](https://user-images.githubusercontent.com/87731897/147422970-74f45535-831c-445d-a36d-20a27d92f997.png)
 
 ### Easy Ensemble AdaBoost Classifier
 
-![2021-12-26](https://user-images.githubusercontent.com/87731897/147422546-0941043a-482b-42fc-bf9d-dfd247a00597.png)
+![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/87731897/147422975-6fc346a2-15f6-409e-9ab9-466009d088d5.png)
 
+### Combination (Over and Under Sampling)
+
+![Combination (Over and Under) Sampling](https://user-images.githubusercontent.com/87731897/147422985-9f73195a-5dcb-401e-86f8-4303062ed20b.png)
+
+### UnderSampling
+
+![Undersampling](https://user-images.githubusercontent.com/87731897/147423098-1aa43221-9ca6-4393-9a51-3aa67e6a7ed2.png)
 
